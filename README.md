@@ -30,4 +30,4 @@ use \core\Model;
 class Usuario extends Model {
 
 }
-```# mvc_crud_php
+```
